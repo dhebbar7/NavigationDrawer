@@ -7,7 +7,7 @@ import android.widget.TextView;
 import com.dineshhebbar.navigationdrawer.R;
 
 public class MainActivity extends AppCompatActivity {
-    TextView hello;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
